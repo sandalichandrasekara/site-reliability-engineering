@@ -402,65 +402,30 @@ These are starting points for further study. This list records useful resources 
 
 ### Primary references
 
-1. **Google — Site Reliability Engineering: The Book**
+1. **Google: Site Reliability Engineering: The Book**
    - Covers SRE fundamentals, risk, SLOs, toil, monitoring, and incident response.
    - https://sre.google/sre-book/table-of-contents/
 
-2. **Google — The Site Reliability Workbook**
+2. **Google: The Site Reliability Workbook**
    - Practical guidance on implementing SRE practices.
    - https://sre.google/workbook/table-of-contents/
 
-3. **Google — SRE Resources**
+3. **Google: SRE Resources**
    - Articles, books, and additional SRE material.
    - https://sre.google/
 
 ### Further reading
 
-4. **Google Cloud — Architecture Framework**
+4. **Google Cloud: Architecture Framework**
    - Reliability and operational considerations for cloud systems.
    - https://cloud.google.com/architecture/framework
 
-5. **Microsoft Azure — Well-Architected Framework**
+5. **Microsoft Azure: Well-Architected Framework**
    - Reliability and operational guidance for Azure workloads.
    - https://learn.microsoft.com/en-us/azure/well-architected/
 
-6. **AWS — Well-Architected Framework**
+6. **AWS: Well-Architected Framework**
    - Reliability principles and design considerations for AWS workloads.
    - https://docs.aws.amazon.com/wellarchitected/latest/framework/welcome.html
 
-### Notes from my reading
 
-As I work through each resource, I will record the relevant chapter or article, the key idea, questions that remain, and how the concept could apply to a real system.
-
-| Resource / chapter | Key idea | My notes |
-|---|---|---|
-| To be added | To be added | To be added |
-
----
-
-## 10. Questions to check my understanding
-
-Use these questions to test whether I can explain the concepts in my own words, not just recognize definitions.
-
-- [ ] What is SRE, and what problem is it intended to solve?
-- [ ] How are SRE, DevOps, and Platform Engineering different?
-- [ ] What does an SRE do during a production incident?
-- [ ] Why can't reliability be treated as an absolute goal without considering cost and risk?
-- [ ] What is toil, and how would I identify it in an operational workflow?
-- [ ] When is automation useful, and what risks can poorly designed automation introduce?
-- [ ] How do SLOs and error budgets help guide engineering decisions?
-- [ ] Why are blameless postmortems valuable?
-- [ ] How would I investigate a sudden increase in API errors after a deployment?
-- [ ] Which SRE practices have I already used in my DevOps work, and which do I want to develop further?
-
----
-
-## Progress
-
-- [ ] Read the introductory chapters of Google's SRE book.
-- [ ] Summarize the differences between SRE, DevOps, and Platform Engineering.
-- [ ] Write a personal example of toil and a possible improvement.
-- [ ] Explain SLOs and error budgets using a practical example.
-- [ ] Document one production-style incident scenario and its response.
-
-**Reflection:** The goal of this study guide is to build a practical understanding of reliability engineering and use that understanding to make better engineering decisions.
