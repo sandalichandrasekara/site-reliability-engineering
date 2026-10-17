@@ -20,7 +20,6 @@ A study guide covering how incidents are detected, assessed, managed, investigat
 - [10. Putting the Ideas Together](#10-putting-the-ideas-together)
 - [11. Key Takeaways](#11-key-takeaways)
 - [12. Learning Resources](#12-learning-resources)
-- [13. Questions to Check My Understanding](#13-questions-to-check-my-understanding)
 
 ---
 
