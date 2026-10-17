@@ -4,8 +4,6 @@
 
 I'm exploring Site Reliability Engineering (SRE) to deepen my understanding of how reliable, scalable, and resilient systems are built, operated, and maintained.
 
-With a background in DevOps, cloud infrastructure, Kubernetes, CI/CD, and Infrastructure as Code, I've become increasingly interested in the engineering principles behind production reliability understanding failures, improving observability, reducing operational toil, and building systems that behave predictably under pressure.
-
 This repository is where I document that journey: the concepts I study, the resources I learn from, the experiments I run, and the lessons I discover along the way.
 
 ---
